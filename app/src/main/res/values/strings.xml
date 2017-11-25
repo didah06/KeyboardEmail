@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Keyboard Email</string>
+    <string name="action_settings">Settings</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
+    <string name="enter_email">Enter an email address</string>
+</resources>
